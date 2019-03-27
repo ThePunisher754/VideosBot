@@ -1,0 +1,41 @@
+{
+  "name": "botvideosHackfest",
+  "padlock": "bag/pked1ggX71zr83Y6tQ==!KxaDia1HSqUl5ELsg/1yC7Xr/3h5/1kxMvxlyfeaK/4z57yHbXnsNiXqrpXUA36M",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "f39db6b0-e8d8-42d8-9659-f0dc21696a5b",
+      "subscriptionId": "de19cf0d-492b-4c0f-9414-08b79d53a153",
+      "resourceGroup": "Hackfest",
+      "serviceName": "botvideosHackfest",
+      "type": "abs",
+      "name": "botvideosHackfest",
+      "id": "1"
+    },
+    {
+      "connectionString": "eQRY2YQ0qWrKeIAqE06VfQ==!+kuPIdX0rZmq08s9c3ct5CR6fARXg2FMnKuDTKbGd96beQ0mi/CmZy/PuoTJ4qJG4K3gUUEOQxutsGoPgds07+7Y8zHY0+q8EisT9PQEIkoT2rw86TsgPO+Mti6WKcrFV6YiMF/BlM55Sdz8LwIPgfNC4yl8WpD3k6iuK8Zpw6Yo3fbA4xw1NCBP3h4ZYSMYC9DXcBT+e0INvsT4abETi0iLfzafBnB2j09/DeusvmA=",
+      "tenantId": "f39db6b0-e8d8-42d8-9659-f0dc21696a5b",
+      "subscriptionId": "de19cf0d-492b-4c0f-9414-08b79d53a153",
+      "resourceGroup": "Hackfest",
+      "serviceName": "botvideoshackfest9a12",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "4250d567-6259-4f75-ae4d-43b5622d7c74",
+      "appPassword": "yOe5e7H3pP3IAljYtnrIgg==!bk/jQ4f0JpS+P0TpvI0U+mna7kNmkncPGXLU3lRrAdw=",
+      "endpoint": "https://botvideoshackfest.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    }
+  ]
+}
